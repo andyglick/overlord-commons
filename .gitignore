@@ -1,9 +1,13 @@
 .settings
 .project
 .classpath
-target
+
+target/
+.idea/
+
 .metadata
 /RemoteSystemsTempFiles
 *~
 *.iml
-.idea
+*.ipr
+*.iws
